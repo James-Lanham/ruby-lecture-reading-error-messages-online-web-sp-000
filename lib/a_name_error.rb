@@ -1,6 +1,6 @@
 def hi 
+puts hello world 
 end
-  puts hello world end
  
 
     
