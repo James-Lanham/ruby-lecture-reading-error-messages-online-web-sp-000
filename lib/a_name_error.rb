@@ -1,3 +1,6 @@
-"hello world"
+def hi 
+end
+  puts hello world end
+ 
 
-hello_world
+    
