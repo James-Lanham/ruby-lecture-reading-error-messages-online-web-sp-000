@@ -1,4 +1,4 @@
-describe "hello wd" orldo
+describe "hello wd"do
 
   context 'NameError' do
     it 'raises a NameError when encountering undefined barewords' do
